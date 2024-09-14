@@ -9,7 +9,7 @@
 //         ];
 
 // *** answer ***
-// current salary = starting salary + (yearly increment * experience)
+// current salary = starting salary + (yearly increment * experience) // (this is formula) //.
 
 const employees = [
   { name: "shahin", experience: 5, starting: 20000, increment: 5000 },
